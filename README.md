@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Sou o Lucas Lima</h1>
 
 <p align="center">
-  <b>Desenvolvedor Front-End & Estudante de Programação</b><br>
+  <b>Desenvolvedor Full-Stack & Estudante de Programação</b><br>
   Transformando ideias em aplicações web criativas, funcionais e interativas.
 </p>
 
