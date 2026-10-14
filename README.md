@@ -5,7 +5,7 @@
 <h1 align="center">🚀 Lucas Lima Ferreira</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web & Entusiasta da Tecnologia</b><br>
+  <b>Desenvolvedor FullStack & Entusiasta da Tecnologia</b><br>
   Criando aplicações modernas, interativas e focadas na melhor experiência do usuário.
 </p>
 
