@@ -3,7 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Lucas+Lima+Ferreira;Desenvolvedor+FullStack;Criando+Soluções+Web" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=180&section=header&text=Olá,%20Mundo!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  
+  <br>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Lucas+Lima+Ferreira;Desenvolvedor+FullStack;Criando+Solu%C3%A7%C3%B5es+Web" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
