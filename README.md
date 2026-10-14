@@ -67,15 +67,10 @@
 ### 🎧 Música em Destaque
 
 <div align="center">
-  <a href="https://open.spotify.com/track/6L89C3sebM1P12s9A31A32" target="_blank">
-    <img src="https://img.shields.io/badge/▶_Música_Destaque-Slipknot_--_Duality-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Música em Destaque" />
-  </a>
+  <p><b>Slipknot — Unsainted</b></p>
   
-  <br><br>
-
-  <!-- Card da Capa do Álbum com Efeito Clicável -->
-  <a href="https://open.spotify.com/track/6L89C3sebM1P12s9A31A32" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b2732958440538a0c25a075d6910" width="220" style="border-radius: 12px;" alt="Slipknot - Duality" />
+  <a href="https://open.spotify.com/track/5129L1O3T133B215286469" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Ouvir_no_Spotify-Slipknot_--_Unsainted-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Slipknot - Unsainted" />
   </a>
 </div>
 
