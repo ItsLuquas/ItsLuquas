@@ -1,15 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=180&section=header&text=Olá,%20Mundo!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=180&section=header&text=Olá,%20Mundo!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
   
   <br>
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Lucas+Lima+Ferreira;Desenvolvedor+FullStack;Criando+Solu%C3%A7%C3%B5es+Web" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Lucas+Lima+Ferreira;Desenvolvedor+FullStack;Criando+Solu%C3%A7%C3%B5es+Web" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -33,11 +27,15 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/lucaslimaferr/?isSelfProfile=true" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://instagram.com/itsluquas0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://open.spotify.com/user/31xhacdybmwbmol6loziq4w24wle" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=black" alt="Spotify" />
   </a>
 </div>
 
@@ -64,7 +62,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ItsLuquas&show_icons=true&theme=radical&count_private=true" alt="ItsLuquas GitHub stats" />
 </div>
 
+---
+
+### 🎧 Música em Destaque
+
+<div align="center">
+  <a href="https://open.spotify.com/track/6L89C3sebM1P12s9A31A32" target="_blank">
+    <img src="https://img.shields.io/badge/▶_Música_Destaque-Slipknot_--_Duality-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Música em Destaque" />
+  </a>
+  
+  <br><br>
+
+  <!-- Card da Capa do Álbum com Efeito Clicável -->
+  <a href="https://open.spotify.com/track/6L89C3sebM1P12s9A31A32" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2732958440538a0c25a075d6910" width="220" style="border-radius: 12px;" alt="Slipknot - Duality" />
+  </a>
+</div>
+
 <br>
 
 <div align="center">
-  <img src="
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:764ba2,0:667eea&height=100&section=footer" />
+</div>
